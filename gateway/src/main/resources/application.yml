@@ -1,8 +1,8 @@
 spring:
 
  application:
-    name: shopping-cart
-
+    name: gateway
+  
  cloud:
     config:
       enabled: true
